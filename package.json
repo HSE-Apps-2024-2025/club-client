@@ -13,7 +13,7 @@
     "axios": "^0.21.1",
     "caniuse-lite": "^1.0.30001519",
     "craco": "^0.0.3",
-    "craco-less": "^1.17.0",
+    "craco-less": "^3.0.1",
     "framer-motion": "^2.4.3-beta.2",
     "moment": "^2.27.0",
     "react": "^16.13.1",
